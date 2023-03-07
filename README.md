@@ -7,9 +7,9 @@ It's been a long holiday vacation in honolulu Hawaii. To help with your trip pla
 The purpose of this project is to use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database.
 
 ## Technologies
-Python
-SQLAlchemy
-Visual Studio Code
+Python,
+SQLAlchemy,
+Visual Studio Code,
 Flask
 
 ## Instruction:
